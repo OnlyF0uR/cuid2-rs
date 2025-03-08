@@ -5,8 +5,8 @@ edition = "2024"
 description = "Collision-resistant unique ids."
 license = "MIT"
 authors = ["OnlyF0uR"]
-homepage = "https://github.com/OnlyF0uR/cuid2"
-repository = "https://github.com/OnlyF0uR/cuid2"
+homepage = "https://github.com/OnlyF0uR/cuid2-rs"
+repository = "https://github.com/OnlyF0uR/cuid2-rs"
 readme = "README.md"
 
 [dependencies]
